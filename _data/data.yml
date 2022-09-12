@@ -5,25 +5,24 @@
 header:
   # Profile information
   avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-  email: steve.doe@website.com
-  phone: 0123 456 78900
-  website: https://yourwebsite.com
-  linkedin: stevedoe
-  github: stevedoe
-  gitlab:
-  bitbucket:
-  twitter: "@stevedoe"
+  email: fboudi9@gmail.com
+  phone: +961 81 773 134
+  website: 
+  linkedin: 
+  github: Fadelnouraldine
+  instagram: fadel_nrd
+  facebook: fadel.nouraldine.5
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
 languages:
-  - idiom: English
+  - idiom: Arabic
     level: Native
   - idiom: French
-    level: Professional
-  - idiom: Spanish
-    level: Professional
+    level: Intermediate
+  - idiom: English
+    level: Intermediate
 
 interests:
   - name: Climbing
@@ -34,7 +33,19 @@ interests:
     link:
 
 summary: |
-  My name is Fadel Nouraldine and I am a prfoessioanl photgrapher and football player with many awards.
+  My name is Fadel Nouraldine lorem ipsumlorem ipsum dolor sit amet, consectetuer
+  adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+  sociis natoque penatibus et magnis dis parturient montes, nascetur
+  ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+  pretium quis, sem.lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
 
 education:
   - degree: MSc in Computer Science
@@ -48,22 +59,11 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
 
 experiences:
-  - role: Lead Developer
-    time: 2018 - Present
-    company: Startup Hub
+  - role: Football Coach
+    time: 2022 - Present
+    company: Boudi Academy
     details: |
       Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit.
       Aenean commodo ligula eget dolor. Aenean massa.
@@ -82,16 +82,10 @@ experiences:
         - Blanditiis praesentium voluptatum deleniti atque corrupti.
         - Maecenas tempus tellus eget.
     technologies:
-      - Angular
-      - Python
-      - jQuery
-      - Webpack
-      - HTML/SASS
-      - PostgresSQL
 
-  - role: Senior Software Developer
-    time: 2014 - 2018
-    company: Google
+  - role: Football Player
+    time: 2021-2022
+    company: Sour
     details: |
       Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit.
       Aenean commodo ligula eget dolor. Aenean massa.
@@ -102,16 +96,10 @@ experiences:
         Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
         Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
     technologies:
-      - React
-      - Redux
-      - Django
-      - Webpack
-      - HTML/SASS
-      - MySQL
 
-  - role: Co-Founder & Lead Developer
-    time: 2012 - 2014
-    company: To-do Lists
+  - role: Photographer
+    time: 2020-2022
+    company: Wael Photography
     details: |
       Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit.
       Aenean commodo ligula eget dolor. Aenean massa.
@@ -121,16 +109,10 @@ experiences:
       Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
       Cum sociis natoque penatibus et magnis dis parturient montes.
     technologies:
-      - Django
-      - JavaScript
-      - Node.js
-      - Require.js
-      - HTML/SASS
 
-  - role: Web Developer
-    subrole: Intern
-    time: 2011 - 2012
-    company: Amazon
+  - role: Esports Manager
+    time: Present
+    company: Clear Vision Esports
     details: |
       Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit.
       Aenean commodo ligula eget dolor. Aenean massa.
@@ -139,10 +121,6 @@ experiences:
       Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus.
       Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum.
     technologies:
-      - Ruby on Rails
-      - jQuery
-      - HTML/LESS
-      - MongoDB
 
 awards:
   - name: Award Name Lorem

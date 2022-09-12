@@ -95,6 +95,26 @@
                         </a>
                     </li>
                 {% endif %}
+                {% if header.instagram %}
+                    <li class="mb-3">
+                        <a href="https://instagram.com/{{ header.instagram }}">
+                            <span class="fa-container text-center mr-2">
+                                <i class="fab fa-instagram fa-fw"></i>
+                            </span>
+                            {{ header.instagram }}
+                        </a>
+                    </li>
+                {% endif %}
+                {% if header.facebook %}
+                    <li class="mb-3">
+                        <a href="https://facebook.com/{{ header.facebook }}">
+                            <span class="fa-container text-center mr-2">
+                                <i class="fab fa-facebook fa-fw"></i>
+                            </span>
+                            {{ header.facebook }}
+                        </a>
+                    </li>
+                {% endif %}
                 {% if header.website %}
                     <li class="mb-3">
                         <a href="{{ header.website }}">
